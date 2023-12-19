@@ -1,2 +1,2 @@
 # IEL - Elektronika pre informačné technológie
-Projekt 1 
+Semestrálny projekt IEL
